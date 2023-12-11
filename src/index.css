@@ -1,0 +1,19 @@
+ div i{
+    cursor: pointer;
+    font-size: 2rem;
+ }
+ body{
+    font-family: 'poppins',sans-serif;
+ }
+ button i{
+    color: blueviolet;
+ }
+ span i{
+    color: blueviolet;
+ }
+ #btn{
+    display: flex;
+    background-color: rgb(217, 205, 227);
+    justify-content: center;
+    align-items: center;
+ }
